@@ -204,7 +204,7 @@ crear_carpetas_imputacion <- function() {
 # el tope pero cobra más) o, en la parte de cotización mínima, no es un
 # suelo del salario en sí. Por eso solo se aplica un suelo (SMI) y NO se
 # aplica ningún techo.
-smi_mensual_2024 <- 1134.00
+smi_mensual_2024 <- 1323.00
 
 # ── Límite inferior admisible del salario imputado (euros/mes) ─────────────
 # Suelo SOLO para jornada completa: un asalariado a jornada completa no
